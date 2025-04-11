@@ -1,0 +1,92 @@
+Initial Review & Analysis
+Competition Analysis (4)
+
+Assign/Schedule…
+
+Index/Non-Index Status Check (2)
+
+Assign/Schedule…
+
+Duplicate Content Check (1)
+
+Broken Links Check (8)
+
+Keyword URL Mapping (14)
+
+Baseline Ranking Check (1)
+
+In-Depth Site Analysis (1)
+
+Keyword Analysis (2)
+
+
+------------------------------------------
+On-Page Optimization
+Header (H1, H2...) Tags Optimization
+
+Internal Link Structuring & Optimization (1)
+
+Robots.Txt Creation/Analysis (1)
+
+Web Content Optimization
+
+KML Sitemap Analysis (5)
+
+GA4/GTM Conversion Setup
+
+Location Based Page Analysis
+
+Footer Optimization (8)
+
+Mobile Usability Check
+
+Canonicalization Check (14)
+
+Image ALT Tag Optimization (as per KWs) (5)
+
+Geo Targeting (via Code within Website) (12)
+
+Schema Tag Note (7)
+
+Title & Meta Tags Optimization (5 Pages) (6)
+
+Google Search Console Setup (If not setup) (4)
+
+GA4/GTM Setup (if not setup) (8)
+
+XML Sitemap Creation/Analysis (2)
+
+Address add to current website page(s) (if applicable) (2)
+
+----------------------------------------------------------
+Content Marketing (Per Month)
+Article Writing - 1
+
+Blog Writing - 2
+
+Classified Writing - 2
+
+
+----------------------------------------------------------
+Off Page Optimization
+Classified Submissions - 8
+
+Blog Promotion - 10
+
+Article Promotion - 5
+
+Competitor Link Analysis and Creation - 2
+
+Content Syndication - 2
+
+Blog Submission - 2
+
+Article Submission - 1
+
+Profile Listing - 5
+
+Business Listings / Local Citations - 4
+
+QNA - 1
+
+Link Syndication - 10
